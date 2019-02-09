@@ -1,6 +1,6 @@
 # Webscript_CW3
 
-##Web Application Brief
+## Web Application Brief
 
 Your challenge is to create a _Configurable Dashboard for Unattended Displays_.
 
@@ -11,6 +11,7 @@ The Unattended Display (C) does not have any inputs (keyboard, mouse, or touch),
 
 Example use cases include:
 *the central area in Buckingham Building, where we have a flat panel for displaying information to staff and visitors. A combination of web pages, images, video, and data, could all be displayed. This might include short-lived notifications such as "there's free food in the kitchen" as well as long-term cyclic information, e.g. an advert for the placements office.*
+
 *on the door/wall outside a lecturer's office, there could be a small screen with helpful information for students and staff: e.g., current location/schedule, do-not-disturb, out-of-office, and urgent messages such as be-back-in-five.*
 
 Your task is to show (through your work) the extent to which you have met the learning outcomes for the unit.
