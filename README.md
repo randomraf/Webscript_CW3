@@ -2,7 +2,7 @@
 
 ## Web Application Brief
 
-Your challenge is to create a _Configurable Dashboard for Unattended Displays_.
+Your challenge is to create a __Configurable Dashboard for Unattended Displays__.
 
 You are to specify and construct this configurable dashboard using a combination of HTML, CSS, and JavaScript, and any backing store you desire (e.g. a database).
 
