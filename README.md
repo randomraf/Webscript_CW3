@@ -22,3 +22,25 @@ The learning outcomes (as defined in the Unit Spec.) are:
 	(e.g. client, server and API layers).
 2. Design a contemporary web application using industry best practices.
 3. Critically evaluate the design and implementation of web applications.
+
+## Requirements
+nodeJS 
+
+Web Browser
+
+## Installation Guide
+To install the node.js modules simply run:
+
+```
+npm install
+```
+or
+
+```
+npm i
+```
+Once all the required packages are installed simply run:
+
+```
+npm start
+```
