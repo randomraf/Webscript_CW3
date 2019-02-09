@@ -1,0 +1,23 @@
+{
+  "name": "webscriptcw3",
+  "version": "1.0.0",
+  "description": "webscript cw",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomraf/Webscript_CW3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randomraf/Webscript_CW3/issues"
+  },
+  "homepage": "https://github.com/randomraf/Webscript_CW3#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
