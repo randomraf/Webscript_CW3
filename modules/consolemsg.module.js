@@ -22,7 +22,7 @@ function consolemsg(){
     /**
     * setTimeout internally uses a signed 32 bit integer to represent the number of milliseconds to "sleep",
     * giving a maximum delay of 2147483647 ms, about 24.9 days.
-    * Try it 
+    * Try it
     */
     setTimeout(function(){
       console.log(`Achievement unlocked`)

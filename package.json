@@ -11,13 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/randomraf/Webscript_CW3.git"
   },
-  "author": "",
+  "author": "up841105",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/randomraf/Webscript_CW3/issues"
   },
   "homepage": "https://github.com/randomraf/Webscript_CW3#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "newsapi": "^2.4.0"
   }
 }
